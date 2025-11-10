@@ -12,11 +12,11 @@
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-Playing around with audio and implementing a slider to control the playback rate of audio.
+The most interesting topic covered in my domain was learning about low and high pass filters and then playing around with audio and implementing a slider to control the playback rate of audio.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-Implementing a way to use facial recognition or hand gestures to control the playback speed.
+Implementing a way to use facial recognition or hand gestures to control the playback speed. An additional project could also be to use EEG brain signals to control the playback speed.
 
 **3. What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
